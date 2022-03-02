@@ -66,7 +66,7 @@ function draw() {
             let rightEyeP3 = createVector(rightEyeIris[3][0], rightEyeIris[3][1])
             let rightEyeP2 = createVector(rightEyeIris[2][0], rightEyeIris[2][2])
             let rightEyeP4 = createVector(rightEyeIris[4][0], rightEyeIris[4][2])
-            let leftEyeP1 = 
+        
 
 
             let d = rightEyeP1.dist(rightEyeP3);
