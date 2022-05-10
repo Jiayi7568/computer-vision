@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "computer-vision",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "computer-vision"
+	}
+}
